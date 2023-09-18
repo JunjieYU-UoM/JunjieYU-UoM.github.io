@@ -21,6 +21,7 @@ I am currently a PhD studuent at the [Department of Earth and Environmental Scie
 
 I received my Master degree in Environmental Engineering (2023) in [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) (UCAS), hosted by Research [Center for Eco-Environmental Sciences](http://www.rcees.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (the top research units on ecology and environment scientific research), under the supervision of Prof. [Dongsheng Wang](https://person.zju.edu.cn/0021195) (2022- Zhejiang University, China). Before that, I received my B.Eng. in Environmental Engineering (2022) from [China University of Mining and Technology-Beijing](https://www.cumtb.edu.cn/) (CUMTB, China).
 
+I am working on using Big Data, Cloud Computing, and Data-Driven modeling in solving practical environmental problems and urban climates. 
 # 🔥 News
 - *2023.09*: &nbsp;🎉🎉 Honored to be awarded **Significant Contributor** in [City Brain Open Research - Open Data Computing Workshopon on Urban Climate](https://open-data-computing.github.io/)
 
@@ -40,7 +41,6 @@ to be renewed.
 # 📖 Educations
 - *2023.09 - now*, Doctor, The University of Manchester (UoM), UK
 - *2020.09 - 2023.06*, Master, University of Chinese Academy of Sciences (UCAS), China
-
 - *2016.09 - 2020.06*, Bachelor, China University of Mining and Technology – Beijing (CUMTB), China
 
-I am working on using Big Data, Cloud Computing, and Data-Driven modeling in solving practical environmental problems and urban climates. 
+
