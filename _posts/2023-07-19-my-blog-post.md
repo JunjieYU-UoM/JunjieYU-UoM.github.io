@@ -1,2 +1,8 @@
+---  
+layout: post  
+title: "My Blog Post"  
+date: 2023-07-19  
+categories: [jekyll, template]  
+---  
   
-This is my blog post. Here I write about my thoughts, experiences, and other interesting topics.
+This is the content of my blog post.
