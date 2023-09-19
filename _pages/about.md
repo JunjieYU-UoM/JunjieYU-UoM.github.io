@@ -23,19 +23,19 @@ I received my Master degree in Environmental Engineering (2023) in [University o
 
 I am working on using Big Data, Cloud Computing, and Data-Driven modeling in solving practical environmental problems and urban climates. 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 Honored to be awarded **Significant Contributor** in [City Brain Open Research - Open Data Computing Workshopon on Urban Climate](https://open-data-computing.github.io/)
+- *2023.09*: &nbsp;🎉🎉 Honored to be awarded **Significant Contributor** in [City Brain Open Research - Open Data Computing Workshop on Urban Climate](https://open-data-computing.github.io/)
 
 
 # 📝 Publications 
 
 **at UoM**
 <ol reversed>
-  <li>K. Wang, J.J Yu, H.W. Zhang, Z.H. Li, Z.Z. Zheng. Leverage a Cloud-based Big Data Processing Platform for Climate Extremes Research (AGU 2023 Conference Abstract, under review)</li>
+  <li>K. Wang, J.J. Yu, H.W. Zhang, Z.H. Li, Z.Z. Zheng. Leverage a Cloud-based Big Data Processing Platform for Climate Extremes Research (AGU 2023 Conference Abstract, under review)</li>
 </ol>
 
 ***at RCEES***
 <ol reversed>
-  <li> H.Y. Sun, R.Y. Jiao, J.J Yu, D.S. Wang. Combined effects of particle size and humic acid corona on the aggregation kinetics of   nanoplastics in aquatic environments. Science of The Total Environment 2023, 901 165987. </li>
+  <li> H.Y. Sun, R.Y. Jiao, J.J. Yu, D.S. Wang. Combined effects of particle size and humic acid corona on the aggregation kinetics of   nanoplastics in aquatic environments. Science of The Total Environment 2023, 901 165987. </li>
   <li> J.J. Yu, H. Xu, X.F. Yang, H.Y. Sun, Z.Y Jin, D.S. Wang. Floc formation and growth during coagulation removing humic acid: Effect of   stirring condition. Separation and Purification Technology. 2022, 302, 122084. </li>
   <li> J.J. Yu, H. Xu, D.S. Wang, H.Y. Sun, R.Y. Jiao, Y. Liu, Z.Y. Jin, S. Zhang, Variations in NOM During Floc Aging: Effect of Typical   Al-based Coagulants and Different Particle Size, Water Research. 2022, 218, 118486. </li>
   <li> J.J. Yu, RY Jiao*, H.Y. Sun, H. Xu, Y. He, D.S Wang, Removal of microorganic pollutants in aquatic environment: The utilization of Fe  (VI). Journal of Environmental Management. 2022, 316, 115328. </li>
@@ -46,7 +46,7 @@ I am working on using Big Data, Cloud Computing, and Data-Driven modeling in sol
 </ol>
 
 # 🎖 Honors and Awards
-- *2023/9* Significant Contributor in [City Brain Open Research - Open Data Computing Workshopon on Urban Climate](https://open-data-computing.github.io/) 
+- *2023/9* Significant Contributor in [City Brain Open Research - Open Data Computing Workshop on Urban Climate](https://open-data-computing.github.io/) 
 - *2022/6* National Scholarship for Graduate students (the highest honor for postgraduates in China, 3%)  
 - *2020/6* Excellent Graduates in Beijing (5%) 
 - *2019/6* First Prize of Beijing Energy and Water Conservation Low Carbon Emission Reduction Social Practice and Technology Competition 
