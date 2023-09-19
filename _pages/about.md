@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD studuent at the [Department of Earth and Environmental Sciences](https://www.ees.manchester.ac.uk/), [The University of Manchester](https://www.manchester.ac.uk/) (UoM), United Kingdom, under the supervision of Dr. [Zhonghua Zhong](https://zhonghuazheng.com/) and Prof. [Daivid Topping](https://research.manchester.ac.uk/en/persons/david.topping). 
+I am currently a PhD studuent at the [Department of Earth and Environmental Sciences](https://www.ees.manchester.ac.uk/), [The University of Manchester](https://www.manchester.ac.uk/) (UoM), United Kingdom, under the supervision of Dr. [Zhonghua Zhong](https://zhonghuazheng.com/) and Prof. [David Topping](https://research.manchester.ac.uk/en/persons/david.topping). 
 
 I received my Master degree in Environmental Engineering (2023) in [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) (UCAS, China), hosted by Research [Center for Eco-Environmental Sciences](http://www.rcees.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (the top research units on ecology and environment scientific research), under the supervision of Prof. [Dongsheng Wang](https://person.zju.edu.cn/0021195) (2022- Zhejiang University, China). Before that, I received my B.Eng. in Environmental Engineering (2020) from [China University of Mining and Technology-Beijing](https://www.cumtb.edu.cn/) (CUMTB, China).
 
