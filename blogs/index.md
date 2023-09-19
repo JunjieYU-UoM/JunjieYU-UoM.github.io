@@ -1,7 +1,5 @@
 ---  
 layout: post  
-title: "My Blog Post"  
-date: 2023-07-19  
+title: "Scientific Blogs"   
 ---  
-  
-This is my blog post. Here I write about my thoughts, experiences, and other interesting topics.
+
