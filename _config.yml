@@ -131,7 +131,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: blogs
+      layout: post
       author_profile: true
       read_time: true
       comments: true
