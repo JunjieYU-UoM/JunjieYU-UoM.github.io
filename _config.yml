@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junjie Yu"
-description              : "PhD student at The University of Manchester"
+description              : ""
 repository               : "JunjieYU-UoM.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -23,7 +23,7 @@ google_scholar_stats_use_cdn : False
 author:
   name             : "Junjie Yu<br>庾俊杰"
   avatar           : "images/aca-homepage-junjie.jpg"
-  bio              : "I am interested in Data-Driven Sciences and Environmental Sciences. Welcome to talk with me."
+  bio              : "I am a PhD student at The University of Manchester, interested in Data-Driven Sciences and Environmental Sciences. Feel free to chat with me."
   location         : "Manchester, UK"
   employer         :
   pubmed           : 
