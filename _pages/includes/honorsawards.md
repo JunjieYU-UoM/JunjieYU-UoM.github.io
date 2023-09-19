@@ -4,4 +4,3 @@
 - *2020.06* Excellent Graduates in Beijing (5%) 
 - *2019.06* Special-Class Award in Beijing Energy and Water Conservation Low Carbon Emission Reduction Social Practice and Technology Competition 
 - *2017.11* First Prize in National University Student Mathematics Competition
-- 
