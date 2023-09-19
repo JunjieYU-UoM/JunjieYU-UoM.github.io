@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: blogs  
 title: "My Blog Post"  
 date: 2023-07-19  
 ---  
