@@ -4,4 +4,4 @@ I received my Master degree in Environmental Engineering (2023) from [University
 
 I am working on using Big Data, Cloud Computing, and Data-Driven modeling in solving practical environmental problems and urban climates. 
 
-If you are interested in the topics above and would like to discuss with me, please feel free to email me at [junjie.yu@postgrad.manchester.ac.uk](mailto:junjie.yu@postgrad.manchester.ac.uk). (Free in English, 普通话, 粤语)
+If you are interested in the topics above and would like to discuss with me, please feel free to email me at [junjie.yu@postgrad.manchester.ac.uk](mailto:junjie.yu@postgrad.manchester.ac.uk). (Free in English, Mandarin, Cantonese)
