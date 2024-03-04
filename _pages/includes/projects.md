@@ -1,6 +1,6 @@
 # 📝 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CLMU-App</div><img src='./figs/clmu-app.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CLMU-App</div><img src='figs/clmu-app.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CLMU-App: Enabling Operating System Independent Urban Climate Simulations](https://envdes.github.io/clmu-app/container/intro.html) \\
