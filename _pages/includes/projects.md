@@ -10,8 +10,8 @@
 
 - CLMU-App supports AMD64 and ARM64 plotforms.
 - Key features:
-  - single point case for Urban Climate Simulations.
-  - urban climate exploration e.g., test urban parameter sensitivity
+  - single point case for urban climate simulations.
+  - urban climate exploration, e.g., test urban parameter sensitivity
   - test code on local before an expensive simulation
 </div>
 </div>
