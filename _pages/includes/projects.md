@@ -8,10 +8,10 @@
 
 [**Docs**](https://envdes.github.io/clmu-app/container/intro.html), [**Docker Hub**](https://hub.docker.com/r/envdes/clmu-app), [**Github**](https://github.com/envdes/clmu-app)
 
-- CLMU-App supports AMD64 and ARM64 plotforms.
+- CLMU-App supports AMD64 and ARM64 platforms.
 - Key features:
   - single point case for urban climate simulations.
   - urban climate exploration, e.g., test urban parameter sensitivity
-  - test code on local before an expensive simulation
+  - test code locally before an expensive simulation
 </div>
 </div>
