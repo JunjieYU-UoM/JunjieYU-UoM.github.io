@@ -22,7 +22,6 @@
 **Junjie Yu**, Zhonghua Zheng, Yuan Sun, Keith Oleson
 
 [![Docs](https://img.shields.io/badge/docs-clmu--app-brightgreen.svg)](https://envdes.github.io/clmu-app/container/intro.html) [![GitHub](https://img.shields.io/badge/GitHub-clmu--app-brightgreen.svg)](https://github.com/envdes/clmu-app) [![DockerHub](https://img.shields.io/badge/Dockerhub-clmu--app-brightgreen.svg)](https://hub.docker.com/r/envdes/clmu-app) 
-[**Docs**](https://envdes.github.io/clmu-app/container/intro.html), [**Docker Hub**](https://hub.docker.com/r/envdes/clmu-app), [**Github**](https://github.com/envdes/clmu-app)
 
 - CLMU-App supports AMD64 and ARM64 platforms.
 - Key features:
