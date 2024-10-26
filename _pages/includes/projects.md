@@ -6,7 +6,7 @@
 [obswx: A Python package for accessing observational meteorological data](https://envdes.github.io/obswx/) \\
 **Junjie Yu**, Yuan Sun, Haofan Wang, Zhiyi Song, David Topping, Zhonghua Zheng
 
-[![Docs](https://img.shields.io/badge/docs-obswx-brightgreen.svg)](https://envdes.github.io/obswx/) [![GitHub](https://img.shields.io/badge/GitHub-obswx-brightgreen.svg)](https://github.com/envdes/obswx) [![pipy](https://img.shields.io/badge/pipy-obswx-blue.svg)](https://pypi.org/project/obswx/) [![license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/envdes/obswx/blob/main/LICENSE) 
+[![Docs](https://img.shields.io/badge/docs-obswx-brightgreen.svg)](https://envdes.github.io/obswx/) [![GitHub](https://img.shields.io/badge/GitHub-obswx-brightgreen.svg)](https://github.com/envdes/obswx) [![pipy](https://img.shields.io/badge/pipy-obswx-blue.svg)](https://pypi.org/project/obswx/) [![Downloads](https://static.pepy.tech/badge/obswx)](https://pepy.tech/project/obswx) [![license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/envdes/obswx/blob/main/LICENSE) 
 
 - [UK historical monthly weather data](https://envdes.github.io/obswx/map.html)
 - [HadISD station data](https://envdes.github.io/obswx/map.html)
