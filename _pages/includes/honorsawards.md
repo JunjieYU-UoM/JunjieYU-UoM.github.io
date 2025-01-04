@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- *2023.11* Travel funding to attend Transforming Urban Living with AI and Digital Twins
+- *2024.11* Travel funding to attend Transforming Urban Living with AI and Digital Twins
 - *2023.09* Significant Contributor in City Brain Open Research - Open Data Computing Workshop on Urban Climate
 - *2022.06* National Scholarship for Graduate Students (the highest honor for postgraduates in China, 3%)  
 - *2020.06* Excellent Graduates in Beijing (5%) 
