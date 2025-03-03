@@ -2,6 +2,7 @@
 
 ***at UoM***
 <ol reversed>
+  <li>J.J. Yu, S. Yuan, S. Lindley, C. Jay, D.O. Topping, K.W. Oleson, Z.Z Zheng. Integration and Execution of Community Land Model Urban (CLMU) in a Containerized Environment. Environ. Model. Softw.</li>
   <li>K. Wang, J.J. Yu, H.W. Zhang, Z.H. Li, Z.Z. Zheng. Leverage a Cloud-based Big Data Processing Platform for Climate Extremes Research. AGU Fall Meeting 2023 Abstract</li>
 </ol>
 
