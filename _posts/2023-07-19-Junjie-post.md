@@ -24,3 +24,6 @@ date: 2023-07-19
 
 **Useful links**
 - [Color](https://color.adobe.com/zh/create/color-wheel)
+
+**Resource**
+- [Global precipitation measurement](https://gpm.nasa.gov/data/imerg)
