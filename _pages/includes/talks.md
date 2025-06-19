@@ -2,6 +2,7 @@
 
 <ol reversed>
 
+  <li> Junjie Yu. Integration and Execution of Community Land Model Urban (CLMU) in a Containerized Environment. <a href="https://www.eventbrite.com/e/crisis-studies-and-mitigation-annual-meeting-agenda-and-registration-tickets-1306691472369?msockid=30aa148298e6661f39e0072d999c671b" target="_blank">Crisis Studies and Mitigation Annual Meeting</a>. 2025. </li> 
   <li> Junjie Yu. Integration and Execution of Community Land Model Urban (CLMU) in a Containerized Environment. <a href="https://www.cesm.ucar.edu/events/432/agenda" target="_blank">30th Annual CESM Workshop</a>. 2025. </li> 
   <li> Junjie Yu. Integration and Execution of Community Land Model Urban (CLMU) in a Containerized Environment. Centre for Atmospheric Science seminar. 2025. </li>
   <li> Junjie Yu. Towards urban climate digital twins: a containerized urban climate model (Travel funded). <a href="https://www.turing.ac.uk/events/transforming-urban-living-ai-and-digital-twins/" target="_blank">Transforming Urban Living with AI and Digital Twins</a>. 2024. </li>

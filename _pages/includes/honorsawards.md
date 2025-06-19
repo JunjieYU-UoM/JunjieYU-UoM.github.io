@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2025.06* The University of Manchester Open Research Award 2025
 - *2024.11* Travel funding to attend Transforming Urban Living with AI and Digital Twins
 - *2023.09* Significant Contributor in City Brain Open Research - Open Data Computing Workshop on Urban Climate
 - *2022.06* National Scholarship for Graduate Students (the highest honor for postgraduates in China, 3%)  
