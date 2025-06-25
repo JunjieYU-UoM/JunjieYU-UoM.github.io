@@ -57,7 +57,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  phd_project      : "https://junjieyu-uom.github.io/UrbanClimateAdaptation/"
+  cv               : "https://junjieyu-uom.github.io/cv.pdf"
 
 # Reading Files
 include:
