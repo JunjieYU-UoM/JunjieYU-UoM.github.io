@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Software"
-    url: "/#-projects"
+  - title: "Softwares"
+    url: "/#-softwares"
 
   - title: "Publications"
     url: "/#-publications"
@@ -26,6 +26,12 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
+
+  - title: "PhD Projects"
+    url: "https://junjieyu-uom.github.io/UrbanClimateAdaptation/"
+
+  - title: "CV"
+    url: "https://junjieyu-uom.github.io/cv.pdf"
 
   #- title: "Invited Talks"
   #  url: "/#-invited-talks"
