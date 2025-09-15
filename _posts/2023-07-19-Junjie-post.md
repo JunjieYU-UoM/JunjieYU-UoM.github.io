@@ -1,8 +1,13 @@
 ---  
 layout: post  
 title: "Urban climate Resources"  
-date: 2023-07-19  
 ---  
+
+**Daily Reading**:
+- [Nature Climate Change](https://www.nature.com/nclimate/)
+- [Nature Cities](https://www.nature.com/natcities/)
+- [Earth's Future](https://agupubs.onlinelibrary.wiley.com/journal/23284277)
+- [Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)
 
 **Machine Learning**:
 - [Arxiv Machine Learning](https://arxiv.org/list/stat.ML/recent)
