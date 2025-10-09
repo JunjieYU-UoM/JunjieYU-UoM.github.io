@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2025.10*: &nbsp;🎉🎉 We have our [**pyclmuapp-cloud-based platform**](http://pyclmuapp.open-urbanclimate.com/) released, every people can get their own urban climate information and urban climate model simulations in this web-based platform freely. 
 - *2025.06*: &nbsp;🎉🎉 I am happy to be one of important contributors of [The University of Manchester Open Research Award 2025](https://www.manchester.ac.uk/about/news/nominations-open-research-award-2025/). This award recognises individuals and teams who have made significant contributions to Open Research at Manchester (awarded one for each year). 
 - *2025.06*: &nbsp;🎉🎉 I'm grateful to the CESM Workshop 2025--30th Annual CESM Workshop for the opportunity to present my research to the CESM community--Land Working Group session [Link](https://www.cesm.ucar.edu/events/432/agenda). It’s a great honor to be a member of the Land Working Group.
 - *2025.05*: &nbsp;🎉🎉 We successfully hosted the [Urban Climate Resilience Workshop](https://envdes.github.io/IAAUrban/), at The University of Manchester, funded by UKRI impact acceleration account Starter Fund & UoM-CUHK Joint Research Fund. This is my first time as the moderator for a public workshop with companies, government, and university staff engaged. 
