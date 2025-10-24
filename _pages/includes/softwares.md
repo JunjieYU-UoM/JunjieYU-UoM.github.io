@@ -1,5 +1,17 @@
 # 📝 Softwares
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">pyclmuapp</div><img src='figs/clum-cloud.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[pyclmuapp-cloud: Democratizing local urban climate simulations](http://pyclmuapp.open-urbanclimate.com/) \\
+**Junjie Yu**, Keith Oleson, Zhonghua Zheng
+
+- [pyclmuapp for urban climate modeling](https://github.com/envdes/pyclmuapp)
+- [U-Surf for 1KM urban surface parameters](https://essd.copernicus.org/articles/17/2147/2025/essd-17-2147-2025.html)
+- [Integration of local climate zone map](https://lcz-generator.rub.de/global-lcz-map)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">obswx</div><img src='figs/obswx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
