@@ -1,5 +1,8 @@
 # 🔥 News
 
+<div style="height: 300px; overflow-y: auto; border: 1px solid #e0e0e0; padding: 10px; border-radius: 5px;">
+
+- *2025.12*: &nbsp;🎉🎉 The paper of [Leveraging Automated Machine Learning (AutoML) for Urban Climate Emulation](https://doi.org/10.1016/j.bdes.2025.100040) was published.  
 - *2025.10*: &nbsp;🎉🎉 We have our [**pyclmuapp-cloud-based platform**](http://pyclmuapp.open-urbanclimate.com/) released, every people can get their own urban climate information and urban climate model simulations in this web-based platform freely. 
 - *2025.06*: &nbsp;🎉🎉 I am happy to be one of important contributors of [The University of Manchester Open Research Award 2025](https://www.manchester.ac.uk/about/news/nominations-open-research-award-2025/). This award recognises individuals and teams who have made significant contributions to Open Research at Manchester (awarded one for each year). 
 - *2025.06*: &nbsp;🎉🎉 I'm grateful to the CESM Workshop 2025--30th Annual CESM Workshop for the opportunity to present my research to the CESM community--Land Working Group session [Link](https://www.cesm.ucar.edu/events/432/agenda). It’s a great honor to be a member of the Land Working Group.
@@ -10,3 +13,5 @@
 - *2024.05*: &nbsp;🔥🔥   The Python package [obswx](https://envdes.github.io/obswx/index.html), for accessing observational meteorological data, was released.
 - *2024.03*: &nbsp;🔥🔥   The [CLMU-App](https://envdes.github.io/clmu-app/index.html), a container that enables operating system independent urban climate simulations, was released.
 - *2023.09*: &nbsp;🎉🎉 Honored to be awarded **Significant Contributor** in [City Brain Open Research - Open Data Computing Workshop on Urban Climate](https://open-data-computing.github.io/), Yunqi Town, Hanghzou, China.
+
+</div>

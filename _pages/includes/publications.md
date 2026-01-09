@@ -2,11 +2,15 @@
 
 ***at UoM***
 <ol reversed>
-  <li>J.J. Yu, S. Yuan, S. Lindley, C. Jay, D.O. Topping, K.W. Oleson, Z.Z Zheng. 
+  <li>J.J. Yu, Z.H Zheng, S. Lindley, L. Zhao, C. Wang. Q.Y. Wu, L.C. Li, D. O, Topping, J. S. Schreck, D. J.Gagne K. W. Oleson. 
+    <a href="https://doi.org/10.1016/j.bdes.2025.100040" target="_blank">
+			Leveraging Automated Machine Learning (AutoML) for Urban Climate Emulation.
+			</a> Big Data and Earth System. 2025, 3, 100040. </li>
+  <li>J.J. Yu, S. Yuan, S. Lindley, C. Jay, D. O. Topping, K.W. Oleson, Z.H Zheng. 
     <a href="https://doi.org/10.1016/j.envsoft.2025.106391" target="_blank">
 			Integration and Execution of Community Land Model Urban (CLMU) in a Containerized Environment.
-			</a> Environ. Model. Softw.</li>
-  <li>K. Wang, J.J. Yu, H.W. Zhang, Z.H. Li, Z.Z. Zheng. Leverage a Cloud-based Big Data Processing Platform for Climate Extremes Research. AGU Fall Meeting 2023 Abstract</li>
+			</a> Environ. Model. Softw. 2025, 188, 106391. </li>
+  <li>K. Wang, J.J. Yu, H.W. Zhang, Z.H. Li, Z.H. Zheng. Leverage a Cloud-based Big Data Processing Platform for Climate Extremes Research. AGU Fall Meeting 2023 Abstract</li>
 </ol>
 
 ***at RCEES***
