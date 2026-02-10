@@ -2,6 +2,11 @@
 
 ***at UoM***
 <ol reversed>
+  <li>J.J. Yu, Z.H Zheng, J.L. Ni, J.Y. Ji. 
+    <a href="https://doi.org/10.1016/j.jenvman.2026.128801" target="_blank">
+			Empowerment of accurate modeling of anaerobic membrane bioreactors by automated machine learning.
+			</a> 
+      Journal of Environmental Management. 2026, 401, 128801. </li>
   <li>J.J. Yu, Z.H Zheng, S. Lindley, L. Zhao, C. Wang. Q.Y. Wu, L.C. Li, D. O, Topping, J. S. Schreck, D. J.Gagne K. W. Oleson. 
     <a href="https://doi.org/10.1016/j.bdes.2025.100040" target="_blank">
 			Leveraging Automated Machine Learning (AutoML) for Urban Climate Emulation.

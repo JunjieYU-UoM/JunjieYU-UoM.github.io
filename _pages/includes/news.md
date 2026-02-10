@@ -2,13 +2,17 @@
 
 <div style="height: 300px; overflow-y: auto; border: 1px solid #e0e0e0; padding: 10px; border-radius: 5px;">
   <ul style="padding-left: 20px; margin-top: 5px; list-style-type: disc;">
-  
+
+    <li style="margin-bottom: 8px;">
+      <i>2025.12</i>: &nbsp;🎉🎉 The paper (first author) of <a href="https://doi.org/10.1016/j.jenvman.2026.128801" target="_blank">Empowerment of accurate modeling of anaerobic membrane bioreactors by automated machine learning</a> was published. This work is in collaboration with The University of Tokyo. 
+    </li>
+
     <li style="margin-bottom: 8px;">
       <i>2026.01</i>: &nbsp;🎉🎉 We successfully hosted the <a href="https://envdes.github.io/IAAUrban/2026" target="_blank">Urban Weather Intelligence in the Cloud</a>, at The University of Manchester, funded by UKRI impact acceleration account Starter Fund. It great opportunity as the organizer for a public workshop with companies, government, and university staff engaged.
     </li>
 
     <li style="margin-bottom: 8px;">
-      <i>2025.12</i>: &nbsp;🎉🎉 The paper of <a href="https://doi.org/10.1016/j.bdes.2025.100040" target="_blank">Leveraging Automated Machine Learning (AutoML) for Urban Climate Emulation</a> was published.
+      <i>2025.12</i>: &nbsp;🎉🎉 The paper (first author)  of <a href="https://doi.org/10.1016/j.bdes.2025.100040" target="_blank">Leveraging Automated Machine Learning (AutoML) for Urban Climate Emulation</a> was published. This work is in collaboration with NCAR, University of Illinois Urbana-Champaign, and Google DeepMind. 
     </li>
 
     <li style="margin-bottom: 8px;">
