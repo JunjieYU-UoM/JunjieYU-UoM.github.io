@@ -4,6 +4,10 @@
   <ul style="padding-left: 20px; margin-top: 5px; list-style-type: disc;">
 
     <li style="margin-bottom: 8px;">
+      <i>2025.06</i>: &nbsp;🎉🎉 I'm grateful to the Land Model and Biogeochemistry Working Group Meeting 2026 for the opportunity to present my research to the CESM community--Land Working Group session <a href="https://www.cesm.ucar.edu/events/472/agenda" target="_blank">Link</a>. It’s a great honor to be a member of the Land Working Group.
+    </li>
+
+    <li style="margin-bottom: 8px;">
       <i>2025.12</i>: &nbsp;🎉🎉 The paper (first author) of <a href="https://doi.org/10.1016/j.jenvman.2026.128801" target="_blank">Empowerment of accurate modeling of anaerobic membrane bioreactors by automated machine learning</a> was published. This work is in collaboration with The University of Tokyo. 
     </li>
 
