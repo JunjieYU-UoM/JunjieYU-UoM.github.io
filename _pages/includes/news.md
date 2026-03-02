@@ -4,7 +4,7 @@
   <ul style="padding-left: 20px; margin-top: 5px; list-style-type: disc;">
 
     <li style="margin-bottom: 8px;">
-      <i>2025.06</i>: &nbsp;🎉🎉 I'm grateful to the Land Model and Biogeochemistry Working Group Meeting 2026 for the opportunity to present my research to the CESM community--Land Working Group session <a href="https://www.cesm.ucar.edu/events/472/agenda" target="_blank">Link</a>. It’s a great honor to be a member of the Land Working Group.
+      <i>2026.02</i>: &nbsp;🎉🎉 I'm grateful to the Land Model and Biogeochemistry Working Group Meeting 2026 for the opportunity to present my research to the CESM community--Land Working Group session <a href="https://www.cesm.ucar.edu/events/472/agenda" target="_blank">Link</a>. It’s a great honor to be a member of the Land Working Group.
     </li>
 
     <li style="margin-bottom: 8px;">
