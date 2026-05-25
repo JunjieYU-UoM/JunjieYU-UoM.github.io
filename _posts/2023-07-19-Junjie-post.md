@@ -16,8 +16,8 @@ title: "Urban climate Resources"
 
 **CTSM**:
 - [CTSM Output](https://escomp.github.io/ctsm-docs/versions/release-clm5.0/html/users_guide/setting-up-and-running-a-case/master_list_file.html)
-- [CLMU technical notes](https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/Urban/CLM50_Tech_Note_Urban.html)
-- [CLMU technical notes pdf](https://files.cesm.ucar.edu/models/clm/5.0/CLM50_Tech_Note.pdf)
+- [CLMU technical notes](https://opensky.ucar.edu/islandora/object/technotes:492)
+- [CLM technical notes pdf](https://files.cesm.ucar.edu/models/clm/5.0/CLM50_Tech_Note.pdf)
 - [CTSM land only mode forcing](https://github.com/ESCOMP/CTSM/blob/75b34d2d8770461e3e28cee973a39f1737de091d/doc/source/tech_note/Land-Only_Mode/CLM50_Tech_Note_Land-Only_Mode.rst#L113)
 
 **Data**:
