@@ -3,6 +3,8 @@
 <ol reversed>
 
 
+  <li> Junjie Yu. An Open-Source Framework for Accessible Community Land Model Urban Simulations. International Symposium on Urban Climate and Environment. 2026. </li> 
+  <li> Junjie Yu. An Open-Source Framework for Accessible Community Land Model Urban Simulations. <a href="https://meetingorganizer.copernicus.org/EGU26/EGU26-10141.html" target="_blank">EGU 2026</a>. 2026. </li> 
   <li> Junjie Yu. Local Urban Climate-Aware HVAC Control via Reinforcement Learning. <a href="https://www.cesm.ucar.edu/events/472/agenda" target="_blank">Land Model and Biogeochemistry Working Group Meeting 2026</a>. 2026. </li> 
   <li> Junjie Yu. Democratizing Urban Climate Modeling with an Open-Source Framework. UoM-CUHK joint workshop: Earth system modelling for environmental/climate risk assessments and adaptations. 2025. </li>
   <li> Junjie Yu. Integration and Execution of Community Land Model Urban (CLMU) in a Containerized Environment. <a href="https://icuc12.eu/" target="_blank">12th International Conference on Urban Climate</a>. 2025. </li> 
