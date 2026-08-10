@@ -2,7 +2,7 @@
 
 <ol reversed>
 
-
+  <li> Junjie Yu. Cloud computing and AI accelerate scientific research: Taking urban climate as an example. Invited talk in University of Shanghai for Science and Technology. June 2026 </li> 
   <li> Junjie Yu. An Open-Source Framework for Accessible Community Land Model Urban Simulations. International Symposium on Urban Climate and Environment. 2026. </li> 
   <li> Junjie Yu. An Open-Source Framework for Accessible Community Land Model Urban Simulations. <a href="https://meetingorganizer.copernicus.org/EGU26/EGU26-10141.html" target="_blank">EGU 2026</a>. 2026. </li> 
   <li> Junjie Yu. Local Urban Climate-Aware HVAC Control via Reinforcement Learning. <a href="https://www.cesm.ucar.edu/events/472/agenda" target="_blank">Land Model and Biogeochemistry Working Group Meeting 2026</a>. 2026. </li> 
