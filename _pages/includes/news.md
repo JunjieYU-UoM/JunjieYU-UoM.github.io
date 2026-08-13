@@ -35,7 +35,7 @@
     </li>
 
     <li style="margin-bottom: 12px;">
-      <i>2026.02</i>: &nbsp;🎉🎉 Invited presentation at <b>Land Model and Biogeochemistry Working Group Meeting 2026</b> – <b>CESM Land Working Group</b> session.<br>
+      <i>2026.02</i>: &nbsp;🎉🎉 Presented at <b>Land Model and Biogeochemistry Working Group Meeting 2026</b> – <b>CESM Land Working Group</b> session.<br>
       <span style="color: #555; font-size: 0.9em;"><a href="https://www.cesm.ucar.edu/events/472/agenda" target="_blank">Agenda link →</a> &nbsp;|&nbsp; It’s a great honor to be a member of the Land Working Group.</span>
     </li>
 
