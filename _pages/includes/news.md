@@ -3,6 +3,9 @@
 <div style="height: 300px; overflow-y: auto; border: 1px solid #e0e0e0; padding: 10px; border-radius: 5px;">
   <ul style="padding-left: 20px; margin-top: 5px; list-style-type: disc;">
 
+    <li style="margin-bottom: 8px;">
+      <i>2026.08</i>: &nbsp;🎉🎉 The paper (first author) of <a href="https://doi.org/10.1016/j.uclim.2026.103088" target="_blank">Evaluating ERA5-Land air temperature and dew point biases in built-up environments in the UK</a> was published in <b>Urban Climate</b>. This work is in collaboration with <b>Pacific Northwest National Laboratory, Microsoft AI, and Wuhan University</b>. 
+</li>
 
     <li style="margin-bottom: 8px;">
       <i>2026.08</i>: &nbsp;🎉🎉 The paper (first author) of <a href="https://doi.org/10.1029/2026EF008876" target="_blank">Optimizing the Rainwater Harvesting and Roof Sprinkling System to Adapt to Urban Extreme Heat</a> was featured by <a href="https://www.manchester.ac.uk/about/news/harvesting-rainwater-from-rooftops-could-help-cities-stay-cool-and-cut-the-number-of-heatwave-days/">The University of Manchester</a>, <a href="https://www.thenationalnews.com/climate/2026/08/06/harvesting-rainwater-from-rooftops-could-help-cities-stay-cool/">The National</a>, <a href="https://www.euronews.com/2026/08/09/harvesting-rainwater-from-rooftops-could-cut-the-number-of-heatwave-days-and-reduce-air-co">Euronews</a>, <a href="https://economictimes.indiatimes.com/us/news/rooftop-rainwater-could-help-cities-stay-cooler-and-cut-heatwave-days-study-finds/articleshow/133030090.cms">The Economic Times</a>, <a href="https://www.watermagazine.co.uk/2026/08/06/harvesting-rainwater-from-rooftops-could-help-cities-stay-cool-and-cut-the-number-of-heatwave-days/">Water Magazine</a>. 
