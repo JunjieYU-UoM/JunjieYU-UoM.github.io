@@ -11,10 +11,16 @@
             <b>Collaborators:</b> Pacific Northwest National Laboratory, Microsoft AI, and Wuhan University.
         </span>
         <br><span style="font-size: 0.9em; color: #333;">
-            🎧 Listen my research: 
-            <a href="https://JunjieYU-UoM.github.io/audio/ERA5-Land_Chinese.m4a" target="_blank" style="background:#f0f0f0; padding:2px 14px; border-radius:12px; text-decoration:none; color:#0066cc; font-size:0.85em; display:inline-block;">🇨🇳 中文</a>
+            🎧 Audio: 
+            <span style="background:#f0f0f0; padding:0 8px; border-radius:3px; font-size:0.85em;">🇨🇳 中文</span>
+            <audio controls preload="none" style="height:20px; vertical-align:middle; width:100px;">
+                <source src="https://JunjieYU-UoM.github.io/audio/ERA5-Land_Chinese.m4a" type="audio/mp4">
+            </audio>
             &nbsp;
-            <a href="https://JunjieYU-UoM.github.io/audio/ERA5-Land_underestimates_urban_heat_risks.m4a" target="_blank" style="background:#f0f0f0; padding:2px 14px; border-radius:12px; text-decoration:none; color:#0066cc; font-size:0.85em; display:inline-block;">🇬🇧 English</a>
+            <span style="background:#f0f0f0; padding:0 8px; border-radius:3px; font-size:0.85em;">🇬🇧 English</span>
+            <audio controls preload="none" style="height:20px; vertical-align:middle; width:100px;">
+                <source src="https://JunjieYU-UoM.github.io/audio/ERA5-Land_underestimates_urban_heat_risks.m4a" type="audio/mp4">
+            </audio>
         </span>
 </li>
 
@@ -36,10 +42,16 @@
             <a href="https://www.miragenews.com/rooftop-rainwater-harvesting-may-cool-cities-1722274/" target="_blank">Mirage News</a>.
         </span>
         <br><span style="font-size: 0.9em; color: #333;">
-            🎧 Listen my research: 
-            <a href="https://JunjieYU-UoM.github.io/audio/OPT_RWTSP_Chinese.m4a" target="_blank" style="background:#f0f0f0; padding:2px 14px; border-radius:12px; text-decoration:none; color:#0066cc; font-size:0.85em; display:inline-block;">🇨🇳 中文</a>
+            🎧 Audio: 
+            <span style="background:#f0f0f0; padding:0 8px; border-radius:3px; font-size:0.85em;">🇨🇳 中文</span>
+            <audio controls preload="none" style="height:20px; vertical-align:middle; width:100px;">
+                <source src="https://JunjieYU-UoM.github.io/audio/OPT_RWTSP_Chinese.m4a" type="audio/mp4">
+            </audio>
             &nbsp;
-            <a href="https://JunjieYU-UoM.github.io/audio/Harvested_rainwater_makes_buildings_sweat.m4a" target="_blank" style="background:#f0f0f0; padding:2px 14px; border-radius:12px; text-decoration:none; color:#0066cc; font-size:0.85em; display:inline-block;">🇬🇧 English</a>
+            <span style="background:#f0f0f0; padding:0 8px; border-radius:3px; font-size:0.85em;">🇬🇧 English</span>
+            <audio controls preload="none" style="height:20px; vertical-align:middle; width:100px;">
+                <source src="https://JunjieYU-UoM.github.io/audio/Harvested_rainwater_makes_buildings_sweat.m4a" type="audio/mp4">
+            </audio>
         </span>
 </li>
 
