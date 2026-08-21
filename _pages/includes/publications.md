@@ -5,10 +5,34 @@
 
 <li><b>Yu, J.</b>, Li, W., Li, L., Kumar, D., Sun, H., Topping, D. O., Tang, G., and Zheng, Z.: <a href="https://doi.org/10.1016/j.uclim.2026.103088" target="_blank">Evaluating ERA5-Land air temperature and dew point biases in built-up environments in the UK</a>, Urban Climate, 69, 103088, 2026.
     <br><span style="color: #555; font-size: 0.9em;"><b>Collaborators:</b> Pacific Northwest National Laboratory, Microsoft AI, and Wuhan University.</span></li>
+    <br><span style="font-size: 0.9em;">🎧 Listen my research: 
+    <span style="background: #f0f0f0; padding: 2px 8px; border-radius: 4px;">🇨🇳 中文</span>
+    <audio controls preload="none" style="height:24px; vertical-align:middle;">
+        <source src="https://JunjieYU-UoM.github.io/audio/ERA5-Land_Chinese.m4a" type="audio/mp4">
+        Your browser does not support the audio element.
+    </audio>
+    &nbsp;&nbsp;
+    <span style="background: #f0f0f0; padding: 2px 8px; border-radius: 4px;">🇬🇧 English</span>
+    <audio controls preload="none" style="height:24px; vertical-align:middle;">
+        <source src="https://JunjieYU-UoM.github.io/audio/ERA5-Land_underestimates_urban_heat_risks.m4a" type="audio/mp4">
+        Your browser does not support the audio element.
+    </audio>
 
   <li><b>Yu, J.</b>, Oleson, K., Qin, Y., Zhao, L., Topping, D., and Zheng, Z.: <a href="https://doi.org/10.1029/2026EF008876" target="_blank">Optimizing the Rainwater Harvesting and Roof Sprinkling System to Adapt to Urban Extreme Heat</a>, Earth's Future, 14, e2026EF008878, 2026.
     <br><span style="color: #555; font-size: 0.9em;"><b>Collaborators:</b> NSF National Center for Atmospheric Research (NCAR), Peking University, and University of Illinois Urbana-Champaign.</span>
     <br><span style="color: #555; font-size: 0.9em;"><b>Media Highlights:</b> <a href="https://www.manchester.ac.uk/about/news/harvesting-rainwater-from-rooftops-could-help-cities-stay-cool-and-cut-the-number-of-heatwave-days/" target="_blank">The University of Manchester</a>, <a href="https://www.thenationalnews.com/climate/2026/08/06/harvesting-rainwater-from-rooftops-could-help-cities-stay-cool/" target="_blank">The National</a>, <a href="https://www.euronews.com/2026/08/09/harvesting-rainwater-from-rooftops-could-cut-the-number-of-heatwave-days-and-reduce-air-co" target="_blank">Euronews</a>, <a href="https://economictimes.indiatimes.com/us/news/rooftop-rainwater-could-help-cities-stay-cooler-and-cut-heatwave-days-study-finds/articleshow/133030090.cms" target="_blank">The Economic Times</a>, <a href="https://www.watermagazine.co.uk/2026/08/06/harvesting-rainwater-from-rooftops-could-help-cities-stay-cool-and-cut-the-number-of-heatwave-days/" target="_blank">Water Magazine</a>, <a href="https://www.linkedin.com/posts/sustainability-climateadaptation-naturebasedsolutions-share-7491546617293082625-PQEN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFTAzQMBBpoFAgcIXAk9lDHG8H-9Xt2GP2w" target="_blank">Sustainable Futures at The University of Manchester</a>, and <a href="https://www.miragenews.com/rooftop-rainwater-harvesting-may-cool-cities-1722274/" target="_blank">Mirage News</a>.</span></li>
+    <br><span style="font-size: 0.9em;">🎧 Listen my research: 
+    <span style="background: #f0f0f0; padding: 2px 8px; border-radius: 4px;">🇨🇳 中文</span>
+    <audio controls preload="none" style="height:24px; vertical-align:middle;">
+        <source src="https://JunjieYU-UoM.github.io/audio/OPT_RWTSP_Chinese.m4a" type="audio/mp4">
+        Your browser does not support the audio element.
+    </audio>
+    &nbsp;&nbsp;
+    <span style="background: #f0f0f0; padding: 2px 8px; border-radius: 4px;">🇬🇧 English</span>
+    <audio controls preload="none" style="height:24px; vertical-align:middle;">
+        <source src="https://JunjieYU-UoM.github.io/audio/Harvested_rainwater_makes_buildings_sweat.m4a" type="audio/mp4">
+        Your browser does not support the audio element.
+    </audio>
 
   <li><b>Yu, J.</b>, Zheng, Z., Ni, J., and Ji, J.: <a href="https://doi.org/10.1016/j.jenvman.2026.128801" target="_blank">Empowerment of accurate modeling of anaerobic membrane bioreactors by automated machine learning</a>, Journal of Environmental Management, 401, 128801, 2026.
     <br><span style="color: #555; font-size: 0.9em;"><b>Collaborators:</b> The University of Tokyo.</span></li>
