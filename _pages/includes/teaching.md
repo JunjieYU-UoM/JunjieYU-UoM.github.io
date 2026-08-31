@@ -1,5 +1,6 @@
 # 📖 Teaching
 
+- *2026.08*: Instructor, Cloud computing, urban climate modeling and automated machine learning, for the exchange program of undergraduate students from Peking University, Zhejiang University, and Jilin University, China.
 - *2025.08*: Instructor, Urban climate modeling and automated machine learning for weather data modeling for the exchange program of undergraduate students from the School of Earth Sciences, Zhejiang University, China and the College of Earth Sciences, Jilin University, China 
 - *2025.01*: Graduate Teaching Assistant, EART11200 The Natural Scientists Toolkit
 - *2025.01*: Graduate Teaching Assistant, EART60702 Earth and Environmental Data Science 2023-24 2nd Semester
