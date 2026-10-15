@@ -4,6 +4,11 @@
   <ul style="padding-left: 20px; margin-top: 5px; list-style-type: disc;">
 
   <li style="margin-bottom: 12px;">
+
+    <i>2026.09</i>: Thanks to MONGABAY News for the short interview with Nick Ruggia, and for recommending our research to society. 
+    <a href="https://news.mongabay.com/2026/09/rooftop-rainwater-sprinkler-systems-could-help-cool-warming-cities-study-says//" target="_blank"><b>Rooftop rainwater sprinkler systems could help cool warming cities, study says</b></a>
+    </li>
+
       <i>2026.08</i>: Recently, I’ve been teaching a summer research workshop for undergraduate students from various universities in China. The curriculum covers basic cloud computing server operations, automated machine learning, and hands-on practice with the Joint UK Land Environment Simulator (JULES). 
      <span style="color: #555; font-size: 0.9em;">Student from: <b>Peking University</b> · <b>Zhejiang University</b> · <b>Jilin University</b></span>
      <br><span style="font-size: 0.9em;">🔗 <a href="https://mp.weixin.qq.com/s/RJr3mnW5ipZOPB6dgg6moA" target="_blank">Course news: Data Science Empowers Environmental Science – Machine Learning Practice</a></span>

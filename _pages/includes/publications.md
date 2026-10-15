@@ -38,8 +38,10 @@
             <a href="https://www.euronews.com/2026/08/09/harvesting-rainwater-from-rooftops-could-cut-the-number-of-heatwave-days-and-reduce-air-co" target="_blank">Euronews</a>, 
             <a href="https://economictimes.indiatimes.com/us/news/rooftop-rainwater-could-help-cities-stay-cooler-and-cut-heatwave-days-study-finds/articleshow/133030090.cms" target="_blank">The Economic Times</a>, 
             <a href="https://www.watermagazine.co.uk/2026/08/06/harvesting-rainwater-from-rooftops-could-help-cities-stay-cool-and-cut-the-number-of-heatwave-days/" target="_blank">Water Magazine</a>, 
-            <a href="https://www.linkedin.com/posts/sustainability-climateadaptation-naturebasedsolutions-share-7491546617293082625-PQEN/" target="_blank">Sustainable Futures at UoM</a>, and 
-            <a href="https://www.miragenews.com/rooftop-rainwater-harvesting-may-cool-cities-1722274/" target="_blank">Mirage News</a>.
+            <a href="https://www.linkedin.com/posts/sustainability-climateadaptation-naturebasedsolutions-share-7491546617293082625-PQEN/" target="_blank">Sustainable Futures at UoM</a>, 
+            <a href="https://www.miragenews.com/rooftop-rainwater-harvesting-may-cool-cities-1722274/" target="_blank">Mirage News</a>, and 
+            <a href="https://news.mongabay.com/2026/09/rooftop-rainwater-sprinkler-systems-could-help-cool-warming-cities-study-says//" target="_blank">Mongabay</a>
+            .
         </span>
         <br><span style="font-size: 0.9em; color: #333;">
             🎧 Audio: 
